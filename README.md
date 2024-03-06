@@ -31,9 +31,10 @@
 </div>
 
 
-<h2 align="center">General</h2>
+<h2 align="center">Full-Stack</h2>
     
 <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
@@ -45,5 +46,5 @@
 <h1 align="center">GitHub Stats</h1>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRibeiroDev&theme=dark&count_private=false&layout=compact&langs_count=6"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRibeiroDev&theme=dark&count_private=false&layout=compact&langs_count=8"/>
 </div>
